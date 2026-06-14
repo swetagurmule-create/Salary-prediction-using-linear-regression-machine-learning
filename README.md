@@ -1,1 +1,1 @@
-# Salary-prediction-using-linear-regression-machine-learning
+Salary Prediction using Linear Regression Machine Learning. This project predicts employee salaries based on years of experience by training a Linear Regression model. It includes data preprocessing, model training, evaluation, and visualization, demonstrating the application of supervised machine learning for predictive analytics using Python and Scikit-learn.
